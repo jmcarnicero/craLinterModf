@@ -1,3 +1,12 @@
+## MODIFIED 
+
+Added eslint airbnb rules,  
+Prettier integration with VScode 
+REmoved messages from linter in browser, only visible in terminal 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
