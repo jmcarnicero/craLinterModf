@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const a = 'asdadadas';
+  let a = "asdadadas" ;
 
   console.log('hola ', a);
 

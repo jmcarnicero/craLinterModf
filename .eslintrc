@@ -3,8 +3,11 @@
   "env": {
     "browser": true
   },
+  "settings": {
+    "emitWarning": true
+  },
   "rules": {
-    "no-console" : 1,
+    "no-console": "error",
     "react/jsx-filename-extension": [
       0,
       {
